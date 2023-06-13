@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate full stack software developer wit
 Here are some of the notable projects I've worked on:
 
 1. [Hermes Alerter](https://github.com/kevinleet/hermes_alerter) - Full stack responsive web application that scrapes the Hermes e-store for restocks, and alerts subscribers in real-time via email.
-2. [MBTA Tracker](https://github.com/kevinleet/MBTA-Tracker) - Lightweight web application that tracks the location of MBTA trains, providing real time information regarding trains, routes, and stops.
+2. [MBTA Tracker](https://github.com/kevinleet/MBTA-Tracker) - Lightweight web application that tracks the location of MBTA trains using the MBTA V3 API, providing real time information for trains, routes, and stops.
 
 Feel free to explore my repositories for more projects and code samples!
 
