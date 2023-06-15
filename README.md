@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate full stack software developer wit
 
 Here are some of the notable projects I've worked on:
 
-1. [Orange Box Alerts](https://github.com/kevinleet/Orange-Box-Alerts) - Automated product restock notifier with automated web scraping and email notification capabilities.
+1. [Orange Box Alerts](https://github.com/kevinleet/Orange-Box-Alerts) - Automated product restock notifier with automated web scraping and email notification capabilities. Responsive front end with mobile-first approach, built with React.js and Bootstrap.
 2. [MBTA Tracker](https://github.com/kevinleet/MBTA-Tracker) - Real-time train tracking application that queries data from the MBTA V3 API and plots positions of routes, trans, and stops on an interactive map powered by the MapQuest.js SDK.
 
 Feel free to explore my repositories for more projects and code samples!
