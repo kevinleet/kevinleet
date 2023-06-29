@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate full stack software developer wit
 
 ## Technologies and Tools
 
-- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, Vite
+- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, Tailwind, Vite
 - **Backend:** Node.js, Express.js, Python, Django
 - **Database:** MongoDB, MySQL, PostgreSQL
 - **Version Control:** Git, GitHub
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate full stack software developer wit
 Here are some of the notable projects I've worked on:
 
 1. [Orange Box Alerts](https://github.com/kevinleet/orange-box-alerts) - Product restock notifier with automated web scraping and email notification capabilities. Responsive front end with mobile-first approach, built with React.js and Bootstrap.
-2. [MBTA Tracker](https://github.com/kevinleet/mbta-tracker) - Real-time train tracking application that queries data from the MBTA V3 API and plots positions of routes, trans, and stops on an interactive map powered by the MapQuest.js SDK.
+2. [MBTA Tracker](https://github.com/kevinleet/mbta-tracker) - Real-time train tracking application that queries data from the MBTA V3 API and plots positions of routes, trains, and stops on an interactive map powered by the MapQuest.js SDK.
 3. [MetaBikes](https://github.com/kevinleet/metabikes) - Multi-page, full-stack, CRUD capable e-commerce site. Allows users to navigate through the site's inventory of bikes and accessories, view item details, add items to the cart, and leave comments.
 
 Feel free to explore my repositories for more projects and code samples!
