@@ -8,15 +8,16 @@ Welcome to my GitHub profile! I'm a passionate full stack software developer wit
 - **Backend:** Node.js, Express.js, Python, Django
 - **Database:** MongoDB, MySQL, PostgreSQL
 - **Version Control:** Git, GitHub
-- **Other:** RESTful APIs, Google OAuth 2.0
+- **Other:** RESTful APIs, jQuery, Google OAuth 2.0, Socket.IO, OpenAI API
 
 ## Projects
 
 Here are some of the notable projects I've worked on:
 
 1. [Orange Box Alerts](https://github.com/kevinleet/orange-box-alerts) - Product restock notifier with automated web scraping and email notification capabilities. Responsive front end with mobile-first approach, built with React.js and Bootstrap.
-2. [MBTA Tracker](https://github.com/kevinleet/mbta-tracker) - Real-time train tracking application that queries data from the MBTA V3 API and plots positions of routes, trains, and stops on an interactive map powered by the MapQuest.js SDK.
-3. [MetaBikes](https://github.com/kevinleet/metabikes) - Multi-page, full-stack, CRUD capable e-commerce site. Allows users to navigate through the site's inventory of bikes and accessories, view item details, add items to the cart, and leave comments.
+2. [MBTA Tracker](https://github.com/kevinleet/mbta-tracker) - Public transit tracking application with real-time data via MBTA V3 API, displayed on an interactive map powered by MapQuest.js.
+3. [helloWorld.ai](https://github.com/kevinleet/helloWorld_frontend) - Mobile-responsive messaging platform with real time chatting and OpenAI integration. Responsive front end with mobile-first approach, built with React.js and Tailwind.
+4. [MetaBikes](https://github.com/kevinleet/metabikes) - Multi-page, full-stack, CRUD capable e-commerce site. Allows users to navigate through the site's inventory of bikes and accessories, view item details, add items to the cart, and leave comments.
 
 Feel free to explore my repositories for more projects and code samples!
 
@@ -26,5 +27,6 @@ I'm always excited to connect with fellow developers, tech enthusiasts, and pote
 
 - **Email:** kevinli617@gmail.com
 - **LinkedIn:** [Kevin Li](https://www.linkedin.com/in/kevinli617/)
+- **Portfolio:** [kevinli.boston](https://kevinli.boston/)
 
 Let's build something amazing together! 🚀
