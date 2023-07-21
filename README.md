@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate full stack software developer with expertise in creating robust web applications. I love solving complex problems and building scalable solutions that enhance user experiences. I'm currently seeking new opportunities to work on exciting projects and contribute to innovative teams.
 
-## Projects
+## Projects:
 
 Here are some of the notable projects I've worked on:
 
