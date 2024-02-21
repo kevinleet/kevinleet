@@ -23,7 +23,7 @@ I enjoy creating tutorials to help fellow developers with various aspects of web
 
 1. [Django Project Deployment to Railway](https://github.com/kevinleet/django-deploy-tutorial) - A step-by-step guide to deploy your Django project to Railway, a platform for deploying and managing web applications. Learn how to configure your project and make it live!
 
-2. [ElementSQL Tutorial](https://github.com/kevinleet/elephantsql-tutorial) - Learn how to connect your Django project to a remote PostgreSQL database using ElephantSQL, enabling you to scale your application and collaborate with teams across the globe.
+2. [ElephantSQL Tutorial](https://github.com/kevinleet/elephantsql-tutorial) - Learn how to connect your Django project to a remote PostgreSQL database using ElephantSQL, enabling you to scale your application and collaborate with teams across the globe.
 
 Feel free to explore these tutorials, and I hope you find them helpful in your web development journey. Happy coding! 🚀
 
